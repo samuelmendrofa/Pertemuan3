@@ -1,16 +1,14 @@
-# Project: idcard 🪪
+# TechGears Catalog UI 📦
+Project praktikum Minggu 3 - Flexbox Mastery.
 
-Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
+## 📸 Preview
+![App Screen](<img width="716" height="1600" alt="WhatsApp Image 2026-04-30 at 14 09 31" src="https://github.com/user-attachments/assets/55c2a8c3-eeb3-4ed2-83f9-61e37226b4e7" />
+)
 
-## 📸 Screenshots
-![Preview Aplikasi](./assets/images/screenshots.jpeg)
+## 🛠️ Features
+- Responsive Grid Layout
+- Absolute Positioned Sale Badge
+- Modern Dark UI Theme
 
-## 🛠️ Tech Stack
-- **Framework:** React Native (Expo SDK 50)
-- **Navigation:** Expo Router
-- **Language:** TypeScript
-
-## 🚀 Cara Menjalankan
-1. Clone repository ini.
-2. Jalankan `npm install`.
-3. Jalankan `npx expo start`.
+## 🔗 Live Preview
+[Cek di Expo Snack](link_snack_anda)
