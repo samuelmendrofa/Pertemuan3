@@ -10,4 +10,4 @@ Project praktikum Minggu 3 - Flexbox Mastery.
 - Modern Dark UI Theme
 
 ## 🔗 Live Preview
-[Cek di Expo Snack]([link_snack_anda](https://snack.expo.dev/@samuel091006/lonely-red-croissant))
+[[Cek di Expo Snack]([link_snack_anda](https://snack.expo.dev/@samuel091006/lonely-red-croissant))](https://snack.expo.dev/@samuel091006/lonely-red-croissant)
